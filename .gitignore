@@ -88,3 +88,5 @@ Temporary Items
 /.metadata/
 /.externalToolBuilders/
 */*.iml
+mvnw*
+
